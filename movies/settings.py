@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-uulq6vs98dgbu&n5ts#%o2v%e_f@_x+$s9-05m-s8a!&!@rwg4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['movielibrary2022.herokuapp.com']
 
 
 # Application definition
